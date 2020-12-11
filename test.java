@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class petan {
+public class test {
 
     public static void main(String[] args) {
         int a;
